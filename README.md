@@ -2,7 +2,7 @@
 ![Marisa Davis](https://github.com/user-attachments/assets/b9aa0d34-b270-4295-ab9c-a03397c5c08a)
 
 
-I'm a Data Analyst with a background in business communication and facilitation. I love diving into complex datasets to uncover insights that drive strategic decisions. With experience in international fast-paced environments and hybrid teams, I bring a unique approach to analyzing and communicating data effectively. Passionate about problem-solving, I apply **data analysis**, **statistical modeling**, **data visualization**, and **machine learning** to turn raw data into meaningful stories.
+I'm a Data Analyst/Data Scientist with a background in business communication and facilitation. I love diving into complex datasets to uncover insights that drive strategic decisions. With experience in international fast-paced environments and hybrid teams, I bring a unique approach to analyzing and communicating data effectively. Passionate about problem-solving, I apply **data analysis**, **statistical modeling**, **data visualization**, and **machine learning** to turn raw data into meaningful stories.
 
 ### 🔍 What I Do
 
