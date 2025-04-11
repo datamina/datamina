@@ -17,9 +17,9 @@ Welcome to my portfolio, where I showcase some projects.
 
 ### 🛠️ Tools & Technologies
 
-- Languages: Python, SQL
-- Data Science: Pandas, Numpy, Scikit-Learn, ...
-- Visualization: Matplotlib, Seaborn, Plotly, Streamlit
+- Languages: Python, SQL, JS, HTML, CSS, R
+- Data Science: Pandas, Numpy, Scikit-Learn, Tensorflow, ...
+- Visualization: Matplotlib, Seaborn, Plotly, Streamlit, Dash, ...
  
 ### 👋🏻 Connect with Me
 [LinkedIn Profile](https://www.linkedin.com/in/marisa-j-davis/)
