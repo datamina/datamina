@@ -19,10 +19,11 @@ Welcome to my portfolio, where I showcase some projects.
 
 - Languages: Python, SQL, JS, HTML, CSS, R
 - Data Science: Pandas, Numpy, Scikit-Learn, Tensorflow, ...
-- Visualization: Matplotlib, Seaborn, Plotly, Streamlit, Dash, ...
+- Visualization: Matplotlib, Seaborn, Plotly, Tableau, Streamlit, Dash, ...
  
 ### 👋🏻 Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/marisa-j-davis/)
+- [LinkedIn Profile](https://www.linkedin.com/in/marisa-j-davis/)
+- [Tableau portfolio](https://public.tableau.com/app/profile/marisa.davis42)
 
 ### 😄 2 truths, 1 lie
 - I have won multiple medals in Vietnamese martial arts at the international level.
